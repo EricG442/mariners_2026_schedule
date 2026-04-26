@@ -19,7 +19,6 @@ export function useGames() {
 
                 const parsed: Game[] = (data.dates || []).flatMap((date: any) => 
                     date.games.map((game: any) => {
-                        console.log(game); // <- dont forget to delete this 
                         const isHome =
                             game.teams.home.team.name === "Seattle Mariners";
 

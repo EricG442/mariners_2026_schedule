@@ -62,7 +62,7 @@ export default function GameRow({ game }: { game: Game }) {
                         <span className="text-gray-400">-</span>
 
                         <span className={opponentScore! > marinersScore! ? "text-green-600" : ""}>
-                            {game.opponent} {opponentScore}
+                            {opponent} {opponentScore}
                         </span>
                     </div>
                 ) : (
