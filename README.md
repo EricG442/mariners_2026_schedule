@@ -4,7 +4,7 @@
 ![Vite](https://img.shields.io/badge/Vite-Bundler-646CFF?logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
-[![Deployment](https://img.shields.io/badge/Deployed-GitHub%20Pages-blue?logo=github)](https://ericg442.github.io/mariners_2026_schedule/)
+[![Deployment](https://img.shields.io/badge/Deployed-GitHub%20Pages-blue?logo=github)](https://ericg442.github.io/mariners-2026-schedule/)
 
 A lightweight **Seattle Mariners game tracker** built with React + Typescript that displays upcoming, live and final MLB games in the 2026 Season, with broadcast information and score tracking.
 
